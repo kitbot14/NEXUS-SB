@@ -1,0 +1,30 @@
+{
+
+  "dependencies": {
+
+    "discord-backup": "^3.2.1",
+
+    "discord-stream-client": "^1.4.8",
+
+    "discord.js": "^14.14.1",
+
+    "djs-selfbot-v13": "^3.2.2",
+
+    "djs-stream-client": "^1.4.8",
+
+    "fs": "^0.0.1-security",
+
+    "ms": "^2.1.3",
+
+    "path": "^0.12.7",
+
+    "request": "^2.88.2",
+
+    "safeness-sb": "^3.3.2",
+
+    "ytdl-core": "^4.11.5"
+
+  }
+
+}
+

@@ -18,4 +18,18 @@ a 50 je met tout les commands je drop all
 ## Example
 
 ```
+{
+  "token": "TOKEN_DE_TON_MANAGER",
+  "owner": [
+    "TON_ID"
+  ],
+  "role": "ROLE_A_ADD_QUAND_LE_USER_SE_CO",
+  "user": {}, //--< ne rien toucher ici
+  "logprivé": []sa marche pas sa,
+  "premiumUsers": [],
+  "whitelist": [
+    "TON_ID"
+],
+  "welcomeMessages": {} //--< ne rien toucher ici
+}
 ```
